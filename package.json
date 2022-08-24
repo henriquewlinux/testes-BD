@@ -1,0 +1,20 @@
+{
+  "name": "bemoldigital",
+  "version": "1.0.0",
+  "description": "Tests BemolDigital",
+  "main": "index.js",
+  "scripts": {
+    "Cypress Open": "npx cypress open",
+    "Cypress run": "npx cypress run"
+  },
+  "author": "Henrique Silveira",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0",
+    "serverest": "^2.26.2"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1",
+    "react-devtools": "^4.25.0"
+  }
+}
