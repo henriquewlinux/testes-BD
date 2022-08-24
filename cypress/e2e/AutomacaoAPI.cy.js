@@ -1,6 +1,4 @@
 import * as contas from '../fixtures/contas'
-import * as postProduto from '../support/Pages/APII/produtos/postProduto'
-import * as postLogin from '../support/Pages/APII/login/postLogin'
 const produto = require('../fixtures/Produto.json')
 
 describe('Testes API Serverest', () => {
